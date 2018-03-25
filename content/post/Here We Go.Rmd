@@ -1,0 +1,53 @@
+---
+title: "Init Website"
+author: "Joe Dotson"
+date: '2018-03-25'
+tags:
+- R Markdown
+- plot
+- regression
+categories: R
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Here We Go
+
+First I have to make a shoutout to everyone in the rstats community. Without the insane dedication to open source, and endless committment to helping others, projects like these would be much harder.
+
+That's my main inspiration for creating this site. If I can make one thing easier for one other newcomer to the world of R, I will have made an effective contribution to this community. 
+<!--
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+-->
+# More About Me
+
+coming soon...
+
+
+# What To Expect
+
+Here I will discuss my adventures in life, politics, and data analysis. For the most part, expect exploratory data analysis, tips, and tricks. The main purpose of this site is to outline problems that I have come up against when working with R, and how I solved them. I am by no means an expert, just a regular guy, a perpetual noob, trying to make it. 
+
+<!--
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
+-->
