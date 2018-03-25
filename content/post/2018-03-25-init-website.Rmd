@@ -2,10 +2,10 @@
 title: "Init Website"
 author: "Joe Dotson"
 date: '2018-03-25'
+slug: init-website
 tags:
 - R Markdown
-- plot
-- regression
+- R
 categories: R
 ---
 
