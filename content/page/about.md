@@ -17,10 +17,15 @@ This site is meant to be many things. A blog and a showcase, but mostly an adven
 - SW Regional Council of Carpenters, Systems Admin & Analytics Expert: 2016 - Present
 
 ## Technical Competencies & Skills
-- SQL (T-SQL, Vertica, SQL Server 2012)
+- SQL (Vertica, T-SQL, SQL Server 2012, MySQL, BigQuery)
 - R 
 - Python
 - Visual Basic 
 - HTML / CSS
 - QGIS / ArcGIS
-- Microsoft & Google Suite
+- Excel / Google Sheets
+- Mac OS, Windows, Ubuntu
+- Google Cloud Computing (Compute & Big Data)
+- Digital Ocean Droplet Creation & Administration
+- RStudio Server Administration
+- Google Suite (GSuite) Administration 
