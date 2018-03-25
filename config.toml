@@ -14,7 +14,7 @@ googleAnalytics = "XXX"
 [Params]
     intro = true
     headline = "Joe Dotson"
-    description = "Adventures in Analytics"
+    description = "Adventures in Analytics, Politics, & Life"
     github = "https://github.com/joedotson2"
     gitlab = "https://gitlab.com/joedotson2"
     linkedin = "https://www.linkedin.com/in/joedotson2/"

@@ -8,6 +8,8 @@ description = "Things about me."
 
 I'm Joe Dotson, a data analytics professional specializing in political data analysis.
 
+This site is meant to be many things. A blog, a showcase, an adventure.
+
 ## History
 - U.S. Air Force: 2008-2014
 - College of Southern Nevada / UNLV: 2014 - Present
