@@ -1,0 +1,26 @@
+---
+title: How I Built This Site With Blogdown
+author: Joe Dotson
+date: '2018-03-25'
+slug: how-i-built-this-site-with-blogdown
+categories: []
+tags: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+## First of All
+
+I generally don't like to learn things the easy way (is there such a thing, though?). I've found that the best way I can learn something in programming is to take examples and reverse engineer them. I tinker and pick and break things until it looks how I want it.
+
+If you're interested in blogdown, you've probably already learned enough by the time you've found me. It would be superfluous to run through the things you can already get from Yihui's book [insert book link here!!]. It's your absolute best source of knowledge for getting started. 
+
+## So Where Did I Start? 
+
+With the book of course. 
+
+But really, set up the accounts required before you start building something you actually want to use. It'll save you time, and more importantly, confusion if you get stuck somewhere. 
+
+
